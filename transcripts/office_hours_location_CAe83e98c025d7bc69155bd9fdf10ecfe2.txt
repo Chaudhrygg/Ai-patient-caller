@@ -1,0 +1,17 @@
+Call SID: CAe83e98c025d7bc69155bd9fdf10ecfe2
+Scenario: office_hours_location
+Date: 2026-06-21T02:15:38.424712
+Duration: ~76s | Agent turns: 5
+============================================================
+
+[15:38] PATIENT: Hi, I have an appointment coming up and I just wanted to confirm your hours and address. Also, is there parking nearby?
+[15:43] AGENT: This call may be recorded for quality and training purposes, but Espanol. [conf=0.90]
+[15:44] PATIENT: Uh, hi, um, I was wondering if you could tell me your office hours?
+[15:53] AGENT: Thanks for calling to the point Orthopedics, part of pretty good AI. Am I speaking with Maria? [conf=0.90]
+[15:53] PATIENT: Oh, um, no, this is not Maria. I'm just calling to find out your office hours.
+[16:20] AGENT: we checked that for you, our office hours are Monday and Tuesday from 9 to 4:00 p.m. Wednesday from 12:00 p.m. to 7:00 p.m. Thursday from 9 to 4:00 p.m. and Friday from 9:00 a.m. to 12:00 p.m. [conf=0.95]
+[16:21] PATIENT: Okay, got it. Um, can you also confirm your address for me, please?
+[16:41] AGENT: I can share the clinic address. It is Pivot Point Orthopedics. 1 2 3 4 recovery Way Suite, 200 Austin. [conf=0.83]
+[16:42] PATIENT: Thank you. Um, is there parking available there?
+[16:54] AGENT: Yes, free patient. Parking is available in the surface lot in front of the building. [conf=0.98]
+[16:55] PATIENT: Great, thanks so much for your help. That’s all I needed to know.

@@ -1,0 +1,31 @@
+Call SID: CA2297cdf755c1073e22c91a9d51eb387e
+Scenario: vague_confused
+Date: 2026-06-21T02:21:38.681848
+Duration: ~158s | Agent turns: 12
+============================================================
+
+[21:38] PATIENT: Hello? Yes, is someone there? My daughter said I should call about... I'm not quite sure. Something about last time I was there. Do you have my file?
+[21:44] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[21:45] PATIENT: Ah, um, okay. I—I need to talk about, er, something with, um, my meds, I think.
+[21:51] AGENT: Pivot Point Orthopedics, part of pretty good Ai and I think it was Maria. [conf=0.79]
+[21:52] PATIENT: Oh, is this, um, the, the medical office? I, uh, need help with, um, my... my prescription, I think.
+[22:07] AGENT: Please tell me your date of birth. [conf=0.96]
+[22:08] PATIENT: Oh, um, yes, my birth date is... uh, well, it's March... um, the 14th, 1942.
+[22:24] AGENT: Please tell me your full name and date of birth. [conf=0.98]
+[22:25] PATIENT: Uh, right, my name is, um, Gerald... uh, Thompson. And, and my birth date is March 14th, 1942.
+[22:41] AGENT: I have her name is Gerald Thompson. [conf=0.81]
+[22:42] PATIENT: Oh, um, no, that's not, uh, correct. Uh, I am Gerald, um, Thompson.
+[22:46] AGENT: March 14th 1942 is that correct? [conf=0.98]
+[22:46] PATIENT: Uh, yes, that's, um, that's right.
+[23:00] AGENT: Do you want to use a phone number to look up your record? [conf=0.98]
+[23:02] PATIENT: Uh, well, I think I, um, might have... but, could you, uh, remind me what number you have there?
+[23:16] AGENT: I have your number as 650. [conf=0.82]
+[23:16] PATIENT: Ah, um, that's not sounding quite right, I think. Could, could it maybe be, um, 408 or, um, something else?
+[23:23] AGENT: 0758, is that correct? [conf=0.78]
+[23:24] PATIENT: Uh, no, um, I don't think, uh, that's it either. Can you, um, try, uh, checking another way?
+[23:41] AGENT: Please confirm your first name last name and date of birth 1 more time. [conf=0.98]
+[23:42] PATIENT: Sure, uh, my name's, um, I think it's... Margaret. And, uh, the date was March 14th, um, 1942.
+[24:02] AGENT: I have your first name as Margaret and your date of birth as March 14th 1942 [conf=0.98]
+[24:03] PATIENT: Oh, um, that sounds right. Can you remind me, uh, what we're, uh, trying to do here?
+[24:17] AGENT: We are just confirming your identity right now. [conf=0.98]
+[24:17] PATIENT: Okay I think I have what I need. Thank you. Goodbye!

@@ -1,0 +1,31 @@
+Call SID: CA9190bd1d17685ecded4205902efe98ec
+Scenario: reschedule
+Date: 2026-06-21T02:09:37.482321
+Duration: ~132s | Agent turns: 12
+============================================================
+
+[09:37] PATIENT: Hi, I need to reschedule. I have an appointment tomorrow at 2pm but my boss just called a meeting. Can we push it to Thursday at the same time?
+[09:43] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[09:44] PATIENT: Yeah, that's fine. Can we change my 2pm appointment tomorrow to Thursday at the same time?
+[09:49] AGENT: Pivot Point Orthopedics, part of pretty good AI. Am I speaking with Maria? [conf=0.93]
+[09:50] PATIENT: No, this is not Maria. I'm calling to reschedule my appointment.
+[10:03] AGENT: Please tell me your full name and date of birth. [conf=0.98]
+[10:04] PATIENT: Sure, it's Alex Johnson, and my birth date is April 15, 1985.
+[10:19] AGENT: I have your name as Alex Johnson and your date of birth as April 15th 1985. [conf=0.98]
+[10:20] PATIENT: That's correct. Can you move my 2pm appointment tomorrow to Thursday at the same time?
+[10:35] AGENT: I need your exact appointment time tomorrow. First [conf=0.98]
+[10:36] PATIENT: Um, it's at 2pm tomorrow.
+[10:44] AGENT: tomorrow, at 2:00 p.m. [conf=0.86]
+[10:44] PATIENT: Yes, that's the one. Can you reschedule it to Thursday, same time?
+[10:48] AGENT: Is it? [conf=0.62]
+[10:49] PATIENT: Yeah, it is. Can you move it to Thursday at 2pm, please?
+[11:02] AGENT: What is the reason for the visit? [conf=0.99]
+[11:03] PATIENT: It's a routine check-up.
+[11:12] AGENT: I need to check your appointment details first. [conf=0.96]
+[11:13] PATIENT: Okay, but can we do it quickly? I'm a bit busy.
+[11:27] AGENT: [silence]
+[11:28] PATIENT: Hello? Are you still there?
+[11:40] AGENT: Yes, do you want to use the phone number on file? Or should I confirm your first name last name and date of birth again? [conf=0.97]
+[11:40] PATIENT: Uh, just use the number on file, please.
+[11:49] AGENT: Please tell me the phone number. You have on file. [conf=0.98]
+[11:49] PATIENT: Okay I think I have what I need. Thank you. Goodbye!

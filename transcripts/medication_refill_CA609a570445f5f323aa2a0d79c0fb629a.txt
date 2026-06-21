@@ -1,0 +1,21 @@
+Call SID: CA609a570445f5f323aa2a0d79c0fb629a
+Scenario: medication_refill
+Date: 2026-06-21T02:07:37.492272
+Duration: ~100s | Agent turns: 7
+============================================================
+
+[07:37] PATIENT: Yes, hello dear. I need my blood pressure pill refilled. It's called... lisi... lisino... I always mess it up. The small white one, 10 milligrams?
+[07:43] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[07:44] PATIENT: Oh, alright. Um... I'm calling because I need a refill on my, uh, medication.
+[07:52] AGENT: Pivot Point Orthopedics, part of pretty good AI. Am I speaking with Maria? [conf=0.95]
+[07:53] PATIENT: Oh, um, no, no, this is, uh, I'm not Maria. I'm calling about a refill for my, um, blood pressure pills.
+[08:08] AGENT: Please tell me your date of birth. [conf=0.96]
+[08:08] PATIENT: Oh, uh, sure. It's July 12th, 1942.
+[08:19] AGENT: Tell me your full name and date of birth. [conf=0.99]
+[08:20] PATIENT: Oh dear, uh, my full name is Margaret Johnson, and my birth date is, um, July 12th, 1942.
+[08:39] AGENT: I have your name as Margaret Johnson and your date of birth as July 12th 1942. Is that correct? [conf=0.97]
+[08:41] PATIENT: Yes, that's right. Um, I just need that, uh, refill for my blood pressure... it's, uh, lisino... something.
+[08:59] AGENT: I have you identified now, I'm sending this along for refill review. [conf=0.96]
+[09:01] PATIENT: Oh, um, thank you. So, uh, when should I expect to hear back, or, uh, do I just pick it up?
+[09:16] AGENT: You should expect a call back or a pharmacy update as soon as possible. [conf=0.95]
+[09:18] PATIENT: Alright, I appreciate your help. I'll keep an eye out for that. Thank you, dear.

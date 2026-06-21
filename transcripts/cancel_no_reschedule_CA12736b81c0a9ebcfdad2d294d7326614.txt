@@ -1,0 +1,23 @@
+Call SID: CA12736b81c0a9ebcfdad2d294d7326614
+Scenario: cancel_no_reschedule
+Date: 2026-06-21T02:11:37.796496
+Duration: ~95s | Agent turns: 8
+============================================================
+
+[11:37] PATIENT: Hi, I need to cancel my upcoming appointment. I actually moved to Texas last month so I won't be a patient anymore.
+[11:44] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[11:44] PATIENT: Sure, no problem. Um, I need to cancel an appointment I have because I've moved out of state.
+[11:49] AGENT: Kinetics, am I speaking with Maria? [conf=0.78]
+[11:49] PATIENT: No, this is actually [Your Name]. I just need to cancel an appointment since I've relocated to Texas.
+[12:01] AGENT: Please tell me your date of birth. [conf=0.98]
+[12:02] PATIENT: Sure, it's [Your Date of Birth].
+[12:11] AGENT: I need your date of birth in month, day and year format. [conf=0.96]
+[12:11] PATIENT: Oh, sorry about that. It's [Month] [Day], [Year].
+[12:24] AGENT: Please give me the actual month day and year of your date of birth. [conf=0.96]
+[12:24] PATIENT: Right, of course. It's January 15th, 1985.
+[12:36] AGENT: Please tell me your full name, first and last, and your date of birth. [conf=0.96]
+[12:37] PATIENT: My name is Alex Johnson, and my date of birth is January 15, 1985.
+[12:54] AGENT: I have your name with Alex Johnson and your date of birth as January 15th 1985. [conf=0.99]
+[12:55] PATIENT: That's correct. I need to cancel my upcoming appointment because I've moved to Texas.
+[13:12] AGENT: Since you've relocated on me to pass this along for follow-up, you should hear back as soon as possible. [conf=0.95]
+[13:13] PATIENT: Okay, thank you. I appreciate your help with this.

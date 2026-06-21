@@ -1,0 +1,31 @@
+Call SID: CA8c01b5a0c97b9ccc91054d6a95ad2268
+Scenario: sunday_appointment
+Date: 2026-06-21T02:05:37.001411
+Duration: ~156s | Agent turns: 12
+============================================================
+
+[05:37] PATIENT: Hi, I need to make an appointment. I work every weekday so the only day that works for me is this Sunday. Do you have Sunday availability?
+[05:43] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[05:43] PATIENT: Uh, hi... I'd like to schedule an appointment for, um, this Sunday. Can you help with that?
+[05:49] AGENT: Calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Maria? [conf=0.98]
+[05:50] PATIENT: Oh, um, no, this isn't Maria. I'm just trying to schedule an appointment for Sunday. Is that possible?
+[06:06] AGENT: Please tell me your date of birth. [conf=0.97]
+[06:06] PATIENT: Sure, it's January 12th, 1985. Now, about that Sunday appointment... is there any availability?
+[06:23] AGENT: Please tell me your full name and date of birth. [conf=0.98]
+[06:24] PATIENT: Oh, right, my full name is Alex Johnson, and my date of birth is January 12th, 1985. So, about Sunday... can we do that?
+[06:44] AGENT: Please spell your first and last name and confirm your date of birth. [conf=0.97]
+[06:46] PATIENT: Sure, it's A-L-E-X J-O-H-N-S-O-N, and my date of birth is January 12th, 1985. So, can we arrange something for Sunday?
+[07:08] AGENT: Do you want to use a phone number to look up your record? [conf=0.99]
+[07:09] PATIENT: Um, sure, I can give you my phone number. It's 555-123-4567. So, about Sunday... any chance you can fit me in?
+[07:35] AGENT: I have your number as 5551234567 and your date of birth as January 12th. [conf=0.92]
+[07:36] PATIENT: That's right, January 12th, 1985. So, can we schedule that appointment for this Sunday?
+[07:40] AGENT: Is that correct? [conf=0.94]
+[07:41] PATIENT: Yes, that's correct. Now, about that Sunday appointment, is it possible?
+[07:47] AGENT: I have. [conf=0.80]
+[07:48] PATIENT: Great, so can we go ahead and book something for Sunday, please? I really can't make it on a weekday.
+[07:53] AGENT: Connecting you to a representative. [conf=1.00]
+[07:54] PATIENT: Thanks. I just really need to find a way to get in on a Sunday.
+[08:02] AGENT: Hello, you've reached the pretty good. AI test line, goodbye. [conf=0.91]
+[08:02] PATIENT: Wait, I need to schedule an appointment for Sunday. Can you help with that?
+[08:13] AGENT: [silence]
+[08:13] PATIENT: Okay I think I have what I need. Thank you. Goodbye!

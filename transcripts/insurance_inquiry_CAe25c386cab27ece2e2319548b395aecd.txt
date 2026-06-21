@@ -1,0 +1,19 @@
+Call SID: CAe25c386cab27ece2e2319548b395aecd
+Scenario: insurance_inquiry
+Date: 2026-06-21T02:13:38.245348
+Duration: ~73s | Agent turns: 6
+============================================================
+
+[13:38] PATIENT: Hi, I'm looking for a new primary care doctor. Before I schedule I wanted to check — do you accept Aetna insurance? And also Blue Cross Blue Shield?
+[13:44] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[13:45] PATIENT: Uh, okay. Um, could you tell me if you accept Aetna insurance?
+[13:53] AGENT: To the point Orthopedics, part of pretty good AI. Am I speaking with Maria? [conf=0.97]
+[13:54] PATIENT: No, I'm not Maria. I'm just a patient trying to find out if you accept Aetna insurance.
+[14:10] AGENT: Please tell me your full name and date of birth. Please tell me your full name and date of birth. [conf=0.99]
+[14:10] PATIENT: Oh, I'm not scheduling yet. I'm just checking if you accept Aetna insurance first.
+[14:25] AGENT: I can help with that. What do you need today? [conf=0.98]
+[14:26] PATIENT: I just need to know if you accept Aetna insurance.
+[14:38] AGENT: Yes, we accept most insurance plans including Aetna. [conf=0.93]
+[14:39] PATIENT: Got it, thank you. And do you also accept Blue Cross Blue Shield?
+[14:50] AGENT: Yes, we accept most Blue Cross Blue Shield plans too. [conf=0.97]
+[14:51] PATIENT: Great, thanks so much for your help. I'll call back to schedule an appointment.
