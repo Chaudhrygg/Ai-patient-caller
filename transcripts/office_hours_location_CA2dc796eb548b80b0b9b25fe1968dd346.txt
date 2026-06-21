@@ -1,0 +1,29 @@
+Call SID: CA2dc796eb548b80b0b9b25fe1968dd346
+Scenario: office_hours_location
+Date: 2026-06-21T00:37:20.603894
+Duration: ~140s | Agent turns: 11
+============================================================
+
+[37:20] PATIENT: Hi, I have an appointment coming up and I just wanted to confirm your hours and address. Also, is there parking nearby?
+[37:27] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[37:28] PATIENT: Oh, um, okay. Could you tell me what your office hours are, please?
+[37:35] AGENT: Orthopedics, part of pretty good AI. Am I speaking with Maria? [conf=0.98]
+[37:36] PATIENT: Uh, no, I'm not Maria. I'm just calling to find out your office hours.
+[37:51] AGENT: Please tell me your full name and date of birth. Please tell me your full name and date of birth. [conf=0.96]
+[37:52] PATIENT: Um, I just need to know your office hours right now. Could you help me with that, please?
+[38:05] AGENT: Please tell me your name and date of birth. [conf=0.98]
+[38:06] PATIENT: I'm just trying to get some basic info about your office. What are your hours?
+[38:19] AGENT: Please tell me your full name and date of birth. [conf=0.97]
+[38:19] PATIENT: I, um, I just want to know your office hours for now. Could you tell me that, please?
+[38:33] AGENT: 1 moment understood. How can I help today? [conf=0.97]
+[38:33] PATIENT: Thanks. Could you let me know your office hours?
+[38:50] AGENT: did a point Orthopedics is open Monday and Tuesday from 9:00 a.m. to 4:00 p.m. Wednesday from 12:00 p.m. to 7:00 p.m. Thursday from 9:00 a.m. to 4:00 p.m. [conf=0.93]
+[38:51] PATIENT: Oh, okay, thanks. Can you confirm the address for me, please?
+[38:55] AGENT: 9 a.m. to 12:00 p.m. [conf=0.75]
+[38:56] PATIENT: Um, sorry, I meant—what's your address?
+[39:13] AGENT: Pivot Point Orthopedics is at recovery Plaza. 1, 2 3, 4 recovery Way Suite, 200 Austin. [conf=0.67]
+[39:14] PATIENT: Got it, thank you. Is there parking available there?
+[39:27] AGENT: Yeah, vacation parking is available in the surface lot in front of the building. [conf=0.87]
+[39:28] PATIENT: Oh, you mean visitor parking, right? Just want to be sure.
+[39:40] AGENT: Yes, free patient. Parking is available in the surface lot in front of the building. [conf=0.98]
+[39:41] PATIENT: Great, that's a relief. Thanks for the help!

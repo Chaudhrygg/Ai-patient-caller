@@ -1,0 +1,31 @@
+Call SID: CA8be5dd4ec324bc84e9b0c92420cf0098
+Scenario: cancel_no_reschedule
+Date: 2026-06-21T00:31:19.951584
+Duration: ~129s | Agent turns: 12
+============================================================
+
+[31:19] PATIENT: Hi, I need to cancel my upcoming appointment. I actually moved to Texas last month so I won't be a patient anymore.
+[31:26] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[31:26] PATIENT: Sure, that's fine. Uh, I need to cancel an appointment.
+[31:32] AGENT: To the point Orthopedics, part of pretty good AI. Am I speaking with Maria? [conf=0.84]
+[31:33] PATIENT: Uh, no, this isn't Maria. I've just moved to Texas and need to cancel my appointment.
+[31:45] AGENT: Please provide your date of birth. [conf=0.97]
+[31:45] PATIENT: Sure, it's June 15, 1982.
+[31:51] AGENT: First. [conf=0.68]
+[31:51] PATIENT: Oh, uh, sorry. It's June 15th, 1982.
+[31:58] AGENT: Please say your date of birth in year month and day. [conf=0.95]
+[31:58] PATIENT: Okay, it's 1982, June 15th.
+[32:11] AGENT: Please tell me your full name, first and last, and your date of birth. [conf=0.93]
+[32:13] PATIENT: My name is Jordan Matthews, and my date of birth is June 15th, 1982.
+[32:29] AGENT: I have a name as Jordan Matthews and your date of birth as June 15th 1982. Is that correct? [conf=0.96]
+[32:30] PATIENT: Yes, that's correct.
+[32:44] AGENT: Do you want to use a phone number to look up your record? [conf=0.98]
+[32:45] PATIENT: Uh, sure, my phone number is 555-239-6789.
+[33:05] AGENT: Let me check that number. I have your number is 555-239-6789 and your date of birth is June 15th 1982. [conf=0.94]
+[33:05] PATIENT: Yes, that's right.
+[33:11] AGENT: 1 moment. [conf=0.76]
+[33:12] PATIENT: Sure, take your time.
+[33:21] AGENT: Connecting you to a representative, please wait. [conf=0.96]
+[33:21] PATIENT: Okay, no problem.
+[33:29] AGENT: Hello, you've reached the pretty good. AI test line, goodbye. [conf=0.94]
+[33:29] PATIENT: Okay I think I have what I need. Thank you. Goodbye!

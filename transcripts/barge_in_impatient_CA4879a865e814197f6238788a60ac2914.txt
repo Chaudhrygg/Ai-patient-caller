@@ -1,0 +1,31 @@
+Call SID: CA4879a865e814197f6238788a60ac2914
+Scenario: barge_in_impatient
+Date: 2026-06-21T00:49:21.546326
+Duration: ~130s | Agent turns: 12
+============================================================
+
+[49:21] PATIENT: Yes hi, quick question — I need an appointment, tomorrow, morning, any time before 10. Is that possible or not?
+[49:26] AGENT: This call may be recorded for quality and training purposes. [conf=1.00]
+[49:27] PATIENT: Yeah, yeah, I just need to make an appointment quickly. Can you help?
+[49:36] AGENT: Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Maria? [conf=0.94]
+[49:37] PATIENT: No, no, this is not Maria. I just need to book an appointment. Can we, uh, hurry this up?
+[49:53] AGENT: Please tell me your full name and date of birth. [conf=0.98]
+[49:54] PATIENT: It's Alex, born March 5th, 1985. So, can we get this scheduled?
+[50:06] AGENT: Let me identify your chart Now, 1. [conf=0.92]
+[50:07] PATIENT: Okay, can we skip ahead? I really need to get this done.
+[50:12] AGENT: Please tell me your last name. [conf=0.99]
+[50:13] PATIENT: It's Jordan. Now, about that appointment—can we pick a date?
+[50:22] AGENT: Let me check your chart now. [conf=0.96]
+[50:23] PATIENT: Sure, but let's not take too long. I've got a busy day ahead.
+[50:27] AGENT: I have Alex Jordan, born March 5th 1985. [conf=0.98]
+[50:28] PATIENT: Great, that's me. So, when's the next available appointment?
+[50:37] AGENT: Let me check the chart first. [conf=0.97]
+[50:38] PATIENT: Can't we just find a date quickly? I'm in a real hurry here.
+[50:44] AGENT: To use the phone number on file for the lookup. [conf=0.98]
+[50:44] PATIENT: Right, it's 555-0199. Can we speed this up?
+[51:01] AGENT: Check that number. Now, I have your number is 555-0199 and your date of birth is March 5th. 1985 [conf=0.92]
+[51:02] PATIENT: Yes, yes, that's correct. So, when can I come in?
+[51:20] AGENT: Your chart 1 more time. I can't receive further right now, but I can make sure our Clinic support team follows up with you. [conf=0.94]
+[51:20] PATIENT: Wait, what? I just need an appointment. Can you help with that?
+[51:32] AGENT: Connecting you to a representative. [conf=1.00]
+[51:32] PATIENT: Okay I think I have what I need. Thank you. Goodbye!

@@ -1,0 +1,31 @@
+Call SID: CAc147416cd5117a269701ec4e1067e8f0
+Scenario: sunday_appointment
+Date: 2026-06-21T00:19:15.236003
+Duration: ~130s | Agent turns: 12
+============================================================
+
+[19:15] PATIENT: Hi, I need to make an appointment. I work every weekday so the only day that works for me is this Sunday. Do you have Sunday availability?
+[19:22] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[19:22] PATIENT: Sure, um, I need to make an appointment for Sunday. Are there any times available?
+[19:27] AGENT: Orthopedics, part of pretty good AI. Am I speaking with Maria? [conf=0.98]
+[19:28] PATIENT: Uh, no, this is not Maria. I'm just calling to book an appointment for Sunday if that's possible.
+[19:39] AGENT: Please share your full name and date of birth. [conf=0.98]
+[19:40] PATIENT: Sure, it's Alex Johnson, and my date of birth is April 5th, 1985. Can you help me with a Sunday appointment?
+[19:45] AGENT: Full name and date of birth. [conf=0.96]
+[19:46] PATIENT: Yeah, Alex Johnson, April 5th, 1985. So, about that Sunday appointment... is it possible?
+[20:05] AGENT: I have your name as Alex Johnson in your date of birth as April 5th. 1985 is that correct? [conf=0.98]
+[20:06] PATIENT: Yes, that's correct. Now, can we look at those Sunday openings?
+[20:24] AGENT: We check that. Do you want to use the phone number? We have on file for your record. [conf=0.98]
+[20:24] PATIENT: Yes, the current number is fine. I'd really prefer to book something on Sunday.
+[20:38] AGENT: 1 moment, please say your full name and date of birth 1 more time. [conf=0.97]
+[20:39] PATIENT: Uh, Alex Johnson, April 5th, 1985. About the Sunday slot, is it available?
+[20:54] AGENT: Let me check, I have your number at 650. [conf=0.86]
+[20:55] PATIENT: That's right. So, can you confirm a Sunday appointment for me?
+[21:00] AGENT: 10758. [conf=0.27]
+[21:01] PATIENT: Yes, that's correct. Now, about scheduling for Sunday, is that possible?
+[21:05] AGENT: I still need a clear. Yes or no. On the number and date of birth. [conf=0.98]
+[21:06] PATIENT: Yes, that's correct for both. Now, can we secure a Sunday appointment?
+[21:14] AGENT: Thanks 1 moment. [conf=0.90]
+[21:15] PATIENT: Sure, take your time.
+[21:25] AGENT: Please wait hello you've reached the pretty good. AI test line goodbye. [conf=0.94]
+[21:25] PATIENT: Okay I think I have what I need. Thank you. Goodbye!

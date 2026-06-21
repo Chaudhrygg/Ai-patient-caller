@@ -1,0 +1,31 @@
+Call SID: CAfcdbdf8a00fd9a4f8e57f38532854302
+Scenario: multiple_requests
+Date: 2026-06-21T00:43:21.399919
+Duration: ~125s | Agent turns: 12
+============================================================
+
+[43:21] PATIENT: Hi, I have a few things. I need to schedule a follow-up, I also need a refill on my metformin 500mg, and I was wondering if my lab results from last Tuesday are ready yet?
+[43:27] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[43:28] PATIENT: Sure, no problem. Uh, could I schedule an appointment, please?
+[43:33] AGENT: Pivot Point Orthopedics, part of pretty good AI. Am I speaking with Maria? [conf=0.89]
+[43:34] PATIENT: Uh, no, sorry. This is actually Jordan.
+[43:43] AGENT: Please tell me your date of birth. [conf=0.90]
+[43:44] PATIENT: It's April 14, 1985.
+[43:52] AGENT: Please tell me your full name and date of birth. [conf=0.96]
+[43:53] PATIENT: Oh, sure. It's Jordan Smith, born April 14, 1985.
+[44:08] AGENT: I have your name as Jordan Smith and your date of birth as April 14th. 1985 [conf=0.97]
+[44:09] PATIENT: That's correct. Uh, I need to schedule an appointment.
+[44:19] AGENT: 1 moment. [conf=0.70]
+[44:20] PATIENT: Sure, no problem.
+[44:34] AGENT: [silence]
+[44:35] PATIENT: Um, is there a good time available next week?
+[44:47] AGENT: We have openings next week. Do you prefer morning or afternoon? [conf=0.98]
+[44:48] PATIENT: Mornings are better for me. What do you have available?
+[45:00] AGENT: We have 1 morning opening next week. It is Tuesday, June 23rd at 9:00 a.m. [conf=0.90]
+[45:01] PATIENT: Uh, June 23rd is a Sunday. Can you double-check that, please?
+[45:12] AGENT: I need to recheck that 1. [conf=0.96]
+[45:13] PATIENT: Sure, I'll hold.
+[45:19] AGENT: I saw the different opening. [conf=0.79]
+[45:20] PATIENT: Great, when is it?
+[45:27] AGENT: June 22nd at 9:00. A.m. would you like that 1? [conf=0.96]
+[45:27] PATIENT: Okay I think I have what I need. Thank you. Goodbye!

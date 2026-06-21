@@ -1,0 +1,27 @@
+Call SID: CA0c5d178220435e1b68a998cb49eedb48
+Scenario: medication_refill
+Date: 2026-06-21T00:19:15.192757
+Duration: ~152s | Agent turns: 10
+============================================================
+
+[19:15] PATIENT: Yes, hello dear. I need my blood pressure pill refilled. It's called... lisi... lisino... I always mess it up. The small white one, 10 milligrams?
+[19:21] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[19:22] PATIENT: Oh, uh, alright. I was, um, hoping to get a refill on my... lisin... lisinprol?
+[19:30] AGENT: Pivot Point Orthopedics, part of pretty good AI. Am I speaking with Maria? [conf=0.96]
+[19:31] PATIENT: Oh, no, um, this is not Maria. I'm trying to get a refill for, um, I think it's called lisin... lisinprol?
+[19:49] AGENT: Please tell me your full name and date of birth. [conf=0.98]
+[19:49] PATIENT: It's, um, Edna Miller, and my birthday is March 15, 1942.
+[20:06] AGENT: We check that for you, I have your name as Edna Miller and your date of birth as March 15th 1942. [conf=0.96]
+[20:07] PATIENT: Yes, yes, that's right. Can you, um, help me with my refill for lisin... lisinprol?
+[20:22] AGENT: 1 moment, please spell the medication name for me, exactly as it appears on the bottle. [conf=0.98]
+[20:23] PATIENT: Oh dear, um, I'm not sure. It's something like l, i, s, i, n... pro... pril?
+[20:40] AGENT: Please spell the medication named exactly as it appears on the bottle 1 letter at a time. [conf=0.98]
+[20:40] PATIENT: I don't have the bottle with me. It's for my blood pressure, lisin... lisinopril, I think.
+[20:58] AGENT: Life in a pro. Got it, please tell me the dose on the bottle, like 10 mg or 20 mg. [conf=0.86]
+[20:59] PATIENT: Um, I believe it's 10 milligrams, yes.
+[21:08] AGENT: Thanks. And which pharmacy should I send it to? [conf=0.99]
+[21:09] PATIENT: Oh, um, I think it's the same one as usual, the... um, the pharmacy on Main Street.
+[21:27] AGENT: I have a Pharmacy on Main Street. Can you tell me the pharmacy name? So I sent it to the right place. [conf=0.99]
+[21:28] PATIENT: I'm sorry, uh, I can't remember the name just now, but it's the one near the bakery, if that helps.
+[21:46] AGENT: I still need the pharmacy name to send the refill to the right place. If you remember it later, you can call back. [conf=0.99]
+[21:47] PATIENT: Oh, dear, okay... I'll try to find it and call back. Thank you for your help.

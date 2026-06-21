@@ -1,0 +1,21 @@
+Call SID: CA191973bee31996ff49b3e8a60d8e122c
+Scenario: wrong_doctor
+Date: 2026-06-21T00:52:22.080726
+Duration: ~85s | Agent turns: 7
+============================================================
+
+[52:22] PATIENT: Hi, my friend referred me to a Dr. Patel at your office. I wanted to schedule with her specifically. Is she available?
+[52:28] AGENT: This call may be recorded for quality and training purposes. [conf=0.99]
+[52:29] PATIENT: Uh, hi, um, I'm actually looking to make an appointment with Dr. Patel. Is he available at this office?
+[52:33] AGENT: It Point Orthopedics part of pretty good, AI. [conf=0.79]
+[52:34] PATIENT: Oh, okay, I see. But, um, does Dr. Patel work at your practice?
+[52:53] AGENT: I can help with general clinic info, but I do not see, Dr. Patel listed here. If you want, I can share our current providers. [conf=0.98]
+[52:54] PATIENT: Oh, that's strange. My friend mentioned Dr. Patel specifically. Could you, um, double-check that for me?
+[53:10] AGENT: Sure, I can check our provider list for you. [conf=0.99]
+[53:11] PATIENT: Okay, thanks... I'll wait.
+[53:19] AGENT: Something's not right. [conf=0.88]
+[53:19] PATIENT: Oh, uh, could you let me know what went wrong?
+[53:30] AGENT: Something's not right. [conf=0.65]
+[53:31] PATIENT: Hmm, I'm getting a bit confused here. Is Dr. Patel available or not?
+[53:46] AGENT: Dr. Patel on our current provider list. That said I can share the providers. We do have, if that helps. [conf=0.97]
+[53:47] PATIENT: Ah, I see. I was really hoping for Dr. Patel. Thanks anyway.

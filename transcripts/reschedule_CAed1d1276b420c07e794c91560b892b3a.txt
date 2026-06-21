@@ -1,0 +1,31 @@
+Call SID: CAed1d1276b420c07e794c91560b892b3a
+Scenario: reschedule
+Date: 2026-06-21T00:19:21.149836
+Duration: ~148s | Agent turns: 12
+============================================================
+
+[19:21] PATIENT: Hi, I need to reschedule. I have an appointment tomorrow at 2pm but my boss just called a meeting. Can we push it to Thursday at the same time?
+[19:26] AGENT: This call may be recorded for quality and training purposes, but Espanol. [conf=0.87]
+[19:26] PATIENT: Uh, hi. I need to, um, reschedule my appointment. It’s supposed to be at 2pm tomorrow.
+[19:36] AGENT: Thanks for calling good at Point Orthopedics part of pretty good AI. Am I speaking with Maria? [conf=0.91]
+[19:37] PATIENT: Uh, no, this is not Maria. I'm calling to reschedule an appointment for tomorrow at 2pm.
+[19:51] AGENT: Please provide your date of birth. [conf=0.98]
+[19:52] PATIENT: Sure, it's April 5th, 1985.
+[20:02] AGENT: Please provide your full name and date of birth. [conf=0.98]
+[20:03] PATIENT: Ah, sorry, my name is Alex Martin, and the date of birth is April 5th, 1985.
+[20:23] AGENT: I have your name as Alex Martin and your date of birth as April 5th 1985 is that correct? [conf=0.98]
+[20:24] PATIENT: Yes, that's correct. Can we move my 2pm appointment to Thursday at the same time?
+[20:37] AGENT: Please hold on. I'll check that. [conf=0.92]
+[20:38] PATIENT: Alright, thank you.
+[20:50] AGENT: [silence]
+[20:51] PATIENT: Uh, is there any update?
+[21:04] AGENT: [silence]
+[21:04] PATIENT: Hello? Is anyone there?
+[21:09] AGENT: Still checking 1 moment. [conf=0.94]
+[21:10] PATIENT: Okay, but can we speed this up? I'm a bit pressed for time.
+[21:20] AGENT: 1 moment. [conf=0.76]
+[21:21] PATIENT: Alright, but please hurry.
+[21:30] AGENT: Do you want to use a phone number to look up your record? [conf=0.99]
+[21:31] PATIENT: Uh, no need. I just need to reschedule my 2 pm appointment for tomorrow to Thursday, same time.
+[21:49] AGENT: Please provide the phone number on file or confirm. Your first name last name and date of birth 1 more time. [conf=0.99]
+[21:49] PATIENT: Okay I think I have what I need. Thank you. Goodbye!
